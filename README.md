@@ -1,1 +1,1 @@
-# Self-Organizing-Map-SOM-
+# **Self-Organizing-Map (SOM)**
