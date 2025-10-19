@@ -61,7 +61,8 @@ Self-Organizing-Map-SOM/
 │   └── Online Retail.xlsx          # Raw dataset
 ├── models/                          # Saved models directory
 ├── SOM.ipynb                        # Main Jupyter notebook
-├── Asesmen Individu 2.docx         # Project documentation
+├── Asesmen Individu 2.docx         # Project documentation (Word format)
+├── Asesmen Individu 2.pdf          # Project documentation (PDF format)
 └── README.md                        # This file
 ```
 
